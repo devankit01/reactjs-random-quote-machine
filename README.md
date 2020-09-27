@@ -1,8 +1,7 @@
 
 
-## Available Scripts
-
-In the project directory, you can run:
+### Preview
+https://random-quote-b7aba.web.app/
 
 ### `npm start`
 
